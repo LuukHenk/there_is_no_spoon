@@ -17,10 +17,10 @@
 
 ## Phase 1 - Starting out
 ### Verdeling:
-- Defender/scout: zorgt voor verdediging
-- Coal miner: Mine coal en zorgt dat dit overal genoeg aanwezig is. Als iemand coal te kort heeft, vraag het aan de coal miner
-- Mineral miner: Produceert plates/crafts items voor de builder
-- Builder: Bouw de basisopzet
+**Defender/scout** Zorgt voor verdediging
+**Coal miner** Mine coal en zorgt dat dit overal genoeg aanwezig is. Als iemand coal te kort heeft, vraag het aan de coal miner
+**Mineral miner** Produceert plates/crafts items voor de builder
+**Builder** Bouw de basisopzet
 
 ### Bram - Defender/scout
 - Zet miner bovenaan coal patch
