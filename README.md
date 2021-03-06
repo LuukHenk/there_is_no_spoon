@@ -20,13 +20,12 @@
 ### General notes
 Phase 1 zou ongeveer 15 minuten moeten duren
 
-#### Rollen
-- **Defender/scout** Zorgt voor verdediging
-- **Coal miner** Mine coal en zorgt dat dit overal genoeg aanwezig is. Als iemand coal te kort heeft, vraag het aan de coal miner
-- **Mineral miner** Produceert plates/crafts items voor de builder
-- **Builder** Bouw de basisopzet
+### Rollen
+- **Defender/scout:** Zorgt voor verdediging
+- **Coal miner:** Mine coal en zorgt dat dit overal genoeg aanwezig is. Als iemand coal te kort heeft, vraag het aan de coal miner
+- **Mineral miner:** Produceert plates/crafts items voor de builder
+- **Builder:** Bouw de basisopzet
 
-### Rol verdeling
 #### Bram - Defender/scout
 - Zet miner bovenaan coal patch
 - Verken de map en kill de biters
