@@ -16,23 +16,28 @@
 ```
 
 ## Phase 1 - Starting out
-### Verdeling:
+
+### General notes
+Phase 1 zou ongeveer 15 minuten moeten duren
+
+#### Rollen
 - **Defender/scout** Zorgt voor verdediging
 - **Coal miner** Mine coal en zorgt dat dit overal genoeg aanwezig is. Als iemand coal te kort heeft, vraag het aan de coal miner
 - **Mineral miner** Produceert plates/crafts items voor de builder
 - **Builder** Bouw de basisopzet
 
-### Bram - Defender/scout
+### Rol verdeling
+#### Bram - Defender/scout
 - Zet miner bovenaan coal patch
 - Verken de map en kill de biters
 
-### ? - Coal miner
+#### Robbie - Coal miner
 - Zet een miner tegenover de miner van de Defender
 - Supply de `Mineral miner`/mine coal manually
 - Supply de builder met coal
 - Bij een overdosis aan coal, help eventueel de mineral miner
 
-### ? - Mineral miner
+#### Sidney - Mineral miner
 - Mine de stenen naast het schip/loot het schip
 - Zet je miner met oven neer onderaan de iron patch (net boven de copper patch)
 - Maak ondertussen ook 10 red science voor de `builder` / mine manually steen voor 20 ovens en vervolgens meer ijzer en koper (1/3 koper 2/3 ijzer)
@@ -40,7 +45,7 @@
 - Maak een electric miner voor de iron patch (tegenover de oude miningdrill)
 - Maak een electric miner voor de copper. Verplaats de oude miningdrill naar de coal patch
 
-### ? - Builder
+#### Luuk - Builder
 - Zet je miner met oven op de copper patch (net onder de iron patch)
 - Hak 1/2 van de bomen onder het schip
 - Maak een 'general' kist, een kist voor de mineral miner en een kist voor de coal miner
@@ -51,11 +56,6 @@
 - Maak een blueprint voor 20 boilers
 - Connect de stroom met coal/iron/copper
 
-
-###
-### tasks
-**Mine 160 iron and 60 copper**
-1. Mine coal rocks near the spaceships
 
 ## Phase 2 - Initial smelting array
 Time|Branm|Ronbie|Sindney|Luunk|
