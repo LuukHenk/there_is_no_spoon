@@ -14,6 +14,8 @@
 	j+YQzIhA9geaiIoDlmjgAlmYAideMMNdAwzPC+wwnsN8B0ZmEAOk6gt
 	QDMKDJlWwUbCEwIzIbgwf7BnmnyjoAACBw6HB<<<
 ```
+## Doc
+https://docs.google.com/document/d/1FE2kEYuqQK-l9VyRHTW4oz5NyOE8i7qtRQKeOurkPUw/edit
 
 ## Phase 1 - Starting out
 Phase 1 zou ongeveer 15 minuten moeten duren
