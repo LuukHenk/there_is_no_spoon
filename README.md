@@ -16,8 +16,6 @@
 ```
 
 ## Phase 1 - Starting out
-
-### General notes
 Phase 1 zou ongeveer 15 minuten moeten duren
 
 ### Rollen
@@ -31,13 +29,15 @@ Phase 1 zou ongeveer 15 minuten moeten duren
 - Verken de map en kill de biters
 
 #### Robbie - Coal miner
+- Mine de stenen naast het schip / loot het schip
 - Zet een miner tegenover de miner van de Defender
 - Supply de `Mineral miner`/mine coal manually
 - Supply de builder met coal
 - Bij een overdosis aan coal, help eventueel de mineral miner
 
 #### Sidney - Mineral miner
-- Mine de stenen naast het schip/loot het schip
+- Loot het schip
+- Mine de stenen naast het schip
 - Zet je miner met oven neer onderaan de iron patch (net boven de copper patch)
 - Maak ondertussen ook 10 red science voor de `builder` / mine manually steen voor 20 ovens en vervolgens meer ijzer en koper (1/3 koper 2/3 ijzer)
 - Maak 20 ovens en gebruik de eerste ~2 om je manual geminde ores in op te smelten
@@ -45,14 +45,14 @@ Phase 1 zou ongeveer 15 minuten moeten duren
 - Maak een electric miner voor de copper. Verplaats de oude miningdrill naar de coal patch
 
 #### Luuk - Builder
-- Zet je miner met oven op de copper patch (net onder de iron patch)
 - Hak 1/2 van de bomen onder het schip
+- Zet je miner met oven op de copper patch (net onder de iron patch)
 - Maak een 'general' kist, een kist voor de mineral miner en een kist voor de coal miner
 - Drop je hout in de kist naast de mineral miner
 - Maak een pump, furnace, steam generator, powerpole, en een lab
 - Doe de 'automation' research
 - Maak een burner inserter met kist om de steam generators te supply'en
-- Maak een blueprint voor 20 boilers
+- Maak een blueprint voor 20 boilers (tot halverwege de copper patch)
 - Connect de stroom met coal/iron/copper
 
 
