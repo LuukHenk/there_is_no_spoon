@@ -65,6 +65,9 @@ Phase 1 zou ongeveer 15 minuten moeten duren
         <td><img src="img/initial-smelting-array.png" /></td>
         <td><img src="img/red-green-science-and-mini-make-everything.png" /></td>
     </tr>
+    <tr>
+        <td><img src="img/betere-setup-paint.png" /></td>
+    </tr>
 <table>
 
 ### Bram
