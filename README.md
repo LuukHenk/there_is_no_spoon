@@ -56,8 +56,16 @@ Phase 1 zou ongeveer 15 minuten moeten duren
 
 ## Phase 2 - Initial smelting array
 
-| initial smelting | science + make-everything |
-![initial smelting array](img/initial-smelting-array.png) | ![red & green science + mini make everything](img/red-green-science-and-mini-make-everything.png)
+<table>
+    <tr>
+        <td>initial smelting</td>
+        <td>science + make-everything</td>
+    </tr>
+    <tr>
+        <td><img src="/LuukHenk/there_is_no_spoon/main/img/initial-smelting-array.png" /></td>
+        <td><img src="/LuukHenk/there_is_no_spoon/red-green-science-and-mini-make-everything.png" /></td>
+    </tr>
+<table>
 
 ### Bram
 - ga weer terug richting base, stop furnaces in de box
