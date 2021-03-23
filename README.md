@@ -62,8 +62,8 @@ Phase 1 zou ongeveer 15 minuten moeten duren
         <td>science + make-everything</td>
     </tr>
     <tr>
-        <td><img src="/LuukHenk/there_is_no_spoon/main/img/initial-smelting-array.png" /></td>
-        <td><img src="/LuukHenk/there_is_no_spoon/red-green-science-and-mini-make-everything.png" /></td>
+        <td><img src="img/initial-smelting-array.png" /></td>
+        <td><img src="img/red-green-science-and-mini-make-everything.png" /></td>
     </tr>
 <table>
 
