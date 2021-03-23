@@ -20,24 +20,20 @@ https://docs.google.com/document/d/1FE2kEYuqQK-l9VyRHTW4oz5NyOE8i7qtRQKeOurkPUw/
 ## Phase 1 - Starting out
 Phase 1 zou ongeveer 15 minuten moeten duren
 
-### Rollen
-- **Defender/scout:** Zorgt voor verdediging
-- **Coal miner:** Mine coal en zorgt dat dit overal genoeg aanwezig is. Als iemand coal te kort heeft, vraag het aan de coal miner
-- **Mineral miner:** Produceert plates/crafts items voor de builder
-- **Builder:** Bouw de basisopzet
-
-#### Bram - Defender/scout
+### Bram
 - Zet miner bovenaan coal patch
 - Verken de map en kill de biters
+    - mijn ook stone rocks (geen patches) als je deze tegen komt, maak stone furnaces zodra het kan (tijdens lopen)
+    - chop ook 100-200 bomen
 
-#### Robbie - Coal miner
+### Robbie
 - Mine de stenen naast het schip / loot het schip
 - Zet een miner tegenover de miner van de Defender
 - Supply de `Mineral miner`/mine coal manually
 - Supply de builder met coal
 - Bij een overdosis aan coal, help eventueel de mineral miner
 
-#### Sidney - Mineral miner
+### Sidney
 - Loot het schip
 - Mine de stenen naast het schip
 - Zet je miner met oven neer onderaan de iron patch (net boven de copper patch)
@@ -46,7 +42,7 @@ Phase 1 zou ongeveer 15 minuten moeten duren
 - Maak een electric miner voor de iron patch (tegenover de oude miningdrill)
 - Maak een electric miner voor de copper. Verplaats de oude miningdrill naar de coal patch
 
-#### Luuk - Builder
+### Luuk
 - Hak 1/2 van de bomen onder het schip
 - Zet je miner met oven op de copper patch (net onder de iron patch)
 - Maak een 'general' kist, een kist voor de mineral miner en een kist voor de coal miner
@@ -59,9 +55,35 @@ Phase 1 zou ongeveer 15 minuten moeten duren
 
 
 ## Phase 2 - Initial smelting array
-Time|Branm|Ronbie|Sindney|Luunk|
-|-	|-	|-	|-	|-	|
-|0:00|  |  	|  	|  	|
+
+![initial smelting array](img/initial-smelting-array.png)
+![red & green science + mini make everything](img/red-green-science-and-mini-make-everything.png)
+
+### Bram
+- ga weer terug richting base, stop furnaces in de box
+- pak wat copper plates en maak ook powerpoles van de wood die je gechopped hebt
+- vul de boilers met coal die je tijdens het verkennen hebt verkregen
+
+### Robbie
+- maak 2 assemblers, en laat die 100 gears en 200 copper wire maken
+- onderhoud en breid coal uit
+- onderhoud red pots
+- zodra de smelting array wordt aangesloten, zorg dat er 3 of 4 steam engines aangesloten staan (adhv verbruik)
+
+### Sidney
+- maak 8 electric mining drills, zet zodra het kan er 1 weg op coal en 1 op copper, de rest op iron
+- maak 18 yellow inserters en stop ze de box
+- vul de belt en copper wire assemblers aan
+- zodra de smelting array wordt aangesloten zorg dat er genoeg resources zijn, maak extra mining drills indien nodig
+- maak 16 yellow inserters en stop ze in de box
+    - gebruik copper wire uit de assembler
+
+### Luuk
+- maak 1 box waar we alles in tyfen
+- bouw boven de coal en links, halverwege vertikaal van de iron patch de smelting setup
+    - 12 ovens voor iron (rechts), 6 voor copper (links van iron) met 4 tiles er tussen
+    - gebruik furnaces en burner inserters die in de box gestopt zijn
+- maak een assembler die belts produceert
 
 ## Phase 3 - Blue science
 Time|Branm|Ronbie|Sindney|Luunk|
