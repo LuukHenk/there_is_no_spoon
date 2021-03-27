@@ -82,7 +82,14 @@ Phase 1 zou ongeveer 15 minuten moeten duren
 - maak 2 assemblers, en laat die gears en copper wire maken (vul ze ook aan)
 - onderhoud coal en steam turbines
 - zodra de smelting array wordt aangesloten, zorg dat er 3 of 4 steam engines aangesloten staan (adhv verbruik)
-- Onderhoud vervolgens
+- Blijf ondertussen ook nog focussen op het input verbruik van de coal
+- Als input verbruik stabiel is (zowel bij jou als sidney), bouw samen met sidney de shopping mall in de gele area op het paint plaatje
+	- ZORG DAT ZE NIET VOLLEDIGE KISTJES VULLEN
+	- Assembler producing accemblers
+	- Assembler producing electric mining drills
+	- Assembler producing boiler + steam engine
+	- Assembler producing arms
+	- Assembler producing belts
 
 
 ### Sidney
