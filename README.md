@@ -58,15 +58,10 @@ Phase 1 zou ongeveer 15 minuten moeten duren
 
 <table>
     <tr>
-        <td>initial smelting</td>
-        <td>science + make-everything</td>
+        <td>Setup</td>
     </tr>
     <tr>
-        <td><img src="img/initial-smelting-array.png" /></td>
-        <td><img src="img/red-green-science-and-mini-make-everything.png" /></td>
-    </tr>
-    <tr>
-        <td colspan="2"><img src="img/betere-setup-paint.png" /></td>
+        <td><img src="img/betere-setup-paint.png" /></td>
     </tr>
 <table>
 
