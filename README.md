@@ -58,43 +58,67 @@ Phase 1 zou ongeveer 15 minuten moeten duren
 
 <table>
     <tr>
-        <td>initial smelting</td>
-        <td>science + make-everything</td>
+        <td>Setup</td>
     </tr>
     <tr>
-        <td><img src="img/initial-smelting-array.png" /></td>
-        <td><img src="img/red-green-science-and-mini-make-everything.png" /></td>
-    </tr>
-    <tr>
-        <td colspan="2"><img src="img/betere-setup-paint.png" /></td>
+        <td><img src="img/betere-setup-paint.png" /></td>
     </tr>
 <table>
 
 ### Bram
-- ga weer terug richting base, stop furnaces in de box
-- pak wat copper plates en maak ook powerpoles van de wood die je gechopped hebt
-- vul de boilers met coal die je tijdens het verkennen hebt verkregen
+- ga weer terug richting base
+- Maak powerpoles van je wood en stop deze samen met de ovens in de centrale itemskist
+- Drop de coal in de coalboxjes
+- Maak tussen de 10 en 20 labs en help anderen mee
+- Zodra de smelting area staat, bouw (eventueel met luuk) de red science setup (zie rode area in paint plaatje)
+- Bouw vervolgens samen met luuk derest van die science setup
+- Bouw eventueel een trein voor get on track like a pro
 
 ### Robbie
-- maak 2 assemblers, en laat die 100 gears en 200 copper wire maken
-- onderhoud en breid coal uit
-- onderhoud red pots
+- maak 2 assemblers, en laat die gears en copper wire maken (vul ze ook aan)
+- onderhoud coal en steam turbines
 - zodra de smelting array wordt aangesloten, zorg dat er 3 of 4 steam engines aangesloten staan (adhv verbruik)
+- Blijf ondertussen ook nog focussen op het input verbruik van de coal
+- Als input verbruik stabiel is (zowel bij jou als sidney), bouw samen met sidney de shopping mall in de gele area op het paint plaatje
+	- ZORG DAT ZE NIET VOLLEDIGE KISTJES VULLEN (reken voor iedereen die het gebruikt 1 stack)
+	- Assembler producing pipes (both types)
+	- Assembler producing electric mining drills
+	- Assembler producing boiler + steam engine
+	- Assembler producing assembler1 and assembler2
+	- Assembler producing belts, splitter and underground belt
+	- Assembler producing blue, yellow, and red arms
+- Bouw eventueel een trein voor get on track like a pro
+
+
 
 ### Sidney
 - maak 8 electric mining drills, zet zodra het kan er 1 weg op coal en 1 op copper, de rest op iron
 - maak 18 yellow inserters en stop ze de box
-- vul de belt en copper wire assemblers aan
+- vul de gear en copper wire assemblers aan
 - zodra de smelting array wordt aangesloten zorg dat er genoeg resources zijn, maak extra mining drills indien nodig
 - maak 16 yellow inserters en stop ze in de box
     - gebruik copper wire uit de assembler
+- Blijf ondertussen ook nog focussen op het input verbruik
+- Als input verbruik stabiel is (zowel bij jou als sidney), bouw samen met sidney de shopping mall in de gele area op het paint plaatje
+	- ZORG DAT ZE NIET VOLLEDIGE KISTJES VULLEN (reken voor iedereen die het gebruikt 1 stack)
+	- Assembler producing pipes (both types)
+	- Assembler producing electric mining drills
+	- Assembler producing boiler + steam engine
+	- Assembler producing assembler1 and assembler2
+	- Assembler producing belts, splitter and underground belt
+	- Assembler producing blue, yellow, and red arms
+- Bouw eventueel een trein voor get on track like a pro
 
 ### Luuk
-- maak 1 box waar we alles in tyfen
-- bouw boven de coal en links, halverwege vertikaal van de iron patch de smelting setup
-    - 12 ovens voor iron (rechts), 6 voor copper (links van iron) met 4 tiles er tussen
-    - gebruik furnaces en burner inserters die in de box gestopt zijn
-- maak een assembler die belts produceert
+- Verzorg de storage boxen setup
+- Bouw vanaf links boven de coal / halverwege de iron patch de smelting setup
+    - 12 ovens voor iron (rechts), 6 voor copper (links van iron) met 4 tiles er tussen (2 furnaces breed)
+    - gebruik furnaces en inserters die in de box gestopt zijn om de setup te bouwen
+	- 1 oven voor steel
+	- Save blueprint
+- Bouw de main belt (koper links iron middel steel rechts met 2 tussen ieder)
+- Bouw samen met bram de science setup
+- Bouw eventueel een trein voor get on track like a pro
 
 ## Phase 3 - Blue science
 Time|Branm|Ronbie|Sindney|Luunk|
